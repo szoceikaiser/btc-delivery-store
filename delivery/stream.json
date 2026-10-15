@@ -1,0 +1,7 @@
+{
+  "schema": "btc-public-provider-probe-seed-v1",
+  "synthetic_only": true,
+  "engine_enabled": false,
+  "send_enabled": false,
+  "note": "Connectivity marker only; no engine state or production receipt."
+}
